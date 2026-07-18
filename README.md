@@ -49,7 +49,7 @@ Nafsi is a desktop app that helps a psychiatry or psychotherapy practice keep it
 
 ### Windows
 
-1. Download the latest **`.msi`** from the [Releases](https://github.com/Salman-001/nafsi-releases/releases/latest) page.
+1. Download the latest **`-setup.exe`** from the [Releases](https://github.com/Salman-001/nafsi-releases/releases/latest) page.
 2. Run it. Windows SmartScreen may show a **"Windows protected your PC"** notice — click **More info → Run anyway** to continue. The installer adds Nafsi to your Start Menu and Desktop.
 
 **Requirements:** Windows 10 or 11 (64-bit).
