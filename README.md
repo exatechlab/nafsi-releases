@@ -7,8 +7,8 @@
 Arabic-first · English · French — built for the way clinicians in the region actually work.
 
 [![Download](https://img.shields.io/badge/Download-usenafsi.com-4c3f91?style=for-the-badge)](https://usenafsi.com/download)
-[![Latest release](https://img.shields.io/github/v/release/Salman-001/nafsi-releases?style=for-the-badge&label=Latest%20release)](https://github.com/Salman-001/nafsi-releases/releases/latest)
-[![Report an issue](https://img.shields.io/badge/Report-an%20issue-critical?style=for-the-badge)](https://github.com/Salman-001/nafsi-releases/issues)
+[![Latest release](https://img.shields.io/github/v/release/exatechlab/nafsi-releases?style=for-the-badge&label=Latest%20release)](https://github.com/exatechlab/nafsi-releases/releases/latest)
+[![Report an issue](https://img.shields.io/badge/Report-an%20issue-critical?style=for-the-badge)](https://github.com/exatechlab/nafsi-releases/issues)
 
 </div>
 
@@ -20,8 +20,8 @@ This repository hosts the **official downloads and issue tracker** for Nafsi. It
 
 Use it to:
 
-- **Download** the latest installer from the [Releases](https://github.com/Salman-001/nafsi-releases/releases) page (or from [usenafsi.com/download](https://usenafsi.com/download)).
-- **Report a bug** or **request a feature** in the [Issues](https://github.com/Salman-001/nafsi-releases/issues) tab.
+- **Download** the latest installer from the [Releases](https://github.com/exatechlab/nafsi-releases/releases) page (or from [usenafsi.com/download](https://usenafsi.com/download)).
+- **Report a bug** or **request a feature** in the [Issues](https://github.com/exatechlab/nafsi-releases/issues) tab.
 
 ---
 
@@ -41,7 +41,7 @@ Nafsi is a desktop app that helps a psychiatry or psychotherapy practice keep it
 
 ### macOS
 
-1. Download the latest **`.dmg`** from the [Releases](https://github.com/Salman-001/nafsi-releases/releases/latest) page. One universal installer runs on both **Apple Silicon** and **Intel** Macs.
+1. Download the latest **`.dmg`** from the [Releases](https://github.com/exatechlab/nafsi-releases/releases/latest) page. One universal installer runs on both **Apple Silicon** and **Intel** Macs.
 2. Open the `.dmg` and drag **Nafsi** into your **Applications** folder.
 3. Launch it. The build is **signed and notarized by Apple**, so it opens with a normal double-click — no Gatekeeper warning and no right-click-to-open workaround.
 
@@ -49,7 +49,7 @@ Nafsi is a desktop app that helps a psychiatry or psychotherapy practice keep it
 
 ### Windows
 
-1. Download the latest **`-setup.exe`** from the [Releases](https://github.com/Salman-001/nafsi-releases/releases/latest) page.
+1. Download the latest **`-setup.exe`** from the [Releases](https://github.com/exatechlab/nafsi-releases/releases/latest) page.
 2. Run it. Windows SmartScreen may show a **"Windows protected your PC"** notice — click **More info → Run anyway** to continue. The installer adds Nafsi to your Start Menu and Desktop.
 
 **Requirements:** Windows 10 or 11 (64-bit).
@@ -74,7 +74,7 @@ Nafsi is built for clinical confidentiality:
 
 ## Reporting bugs & requesting features
 
-Found a problem or have an idea? Please [open an issue](https://github.com/Salman-001/nafsi-releases/issues/new). Helpful details for a bug:
+Found a problem or have an idea? Please [open an issue](https://github.com/exatechlab/nafsi-releases/issues/new). Helpful details for a bug:
 
 - Your Nafsi version (**Settings → About**) and your OS version.
 - What you did, what you expected, and what happened instead.
@@ -87,8 +87,8 @@ Please **do not include real patient information** in an issue — redact names 
 ## Links
 
 - **Website & download:** [usenafsi.com](https://usenafsi.com)
-- **Releases:** [github.com/Salman-001/nafsi-releases/releases](https://github.com/Salman-001/nafsi-releases/releases)
-- **Issues:** [github.com/Salman-001/nafsi-releases/issues](https://github.com/Salman-001/nafsi-releases/issues)
+- **Releases:** [github.com/exatechlab/nafsi-releases/releases](https://github.com/exatechlab/nafsi-releases/releases)
+- **Issues:** [github.com/exatechlab/nafsi-releases/issues](https://github.com/exatechlab/nafsi-releases/issues)
 
 ---
 
